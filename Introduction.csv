@@ -1,0 +1,13 @@
+Data Guide
+Road Accidents and Safety Data
+""
+""
+The data is supplied in comma separated ASCII format.
+""
+The ACC_Index field give a unique index for each accident and links to Vehicle and Casualty data. Casualties are linked to vehicles by “VEHREF”.
+""
+This data guide lists the value labels and for each variable.
+""
+The value “-1” is exported for NULL or out of range values.”
+""
+The Longitude and Latitude data is based on WGS 1984.
